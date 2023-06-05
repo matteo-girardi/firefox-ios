@@ -1,0 +1,12 @@
+/* Title label for user to input their credit card number printed on their credit card in the text box below. */
+"CreditCard.EditCard.CardNumberTitle.v112" = "Numeru di carta";
+
+/* Title label for user to input their name printed on their credit card in the text box below. */
+"CreditCard.EditCard.NameOnCardTitle.v112" = "Nome di u titulare";
+
+/* Button title which, when tapped, will allow the user to save valid credit card details. */
+"CreditCard.EditCard.NavButtonSaveTitle.v112" = "Arregistrà";
+
+/* Title label for button that allows user to remove their saved credit card. */
+"CreditCard.EditCard.RemoveCardButtonTitle.v112" = "Caccià sta carta";
+
